@@ -66,8 +66,8 @@ rl.question('Masukkan pilihan operasi (1-4): ', (inputPilihan) => {
 
       if (hasil !== undefined) {
         console.log(`\nOperasi: ${namaOperasi}`);
-        console.log(`Angka 1: ${angka1}`);
-        console.log(`Angka 2: ${angka2}`);
+        console.log(`Angka a: ${angka1}`);
+        console.log(`Angka b: ${angka2}`);
         console.log(`Hasil: ${hasil}`);
       }
 
